@@ -42,11 +42,6 @@ Two lines comment
 
 - **Seaborn** $\rightarrow$ plot (<https://seaborn.pydata.org/>)
 
-
-
-
-## **Some useful packages**
-
 - **scikit learn** $\rightarrow$ Classification, Regression, Clustering etc (<https://scikit-learn.org/stable/tutorial/index.html>)
 
 - **statmodels** $\rightarrow$ Models (<http://www.statsmodels.org/devel/index.html>)
