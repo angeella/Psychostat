@@ -1,6 +1,4 @@
 # **Introduction to Python**
-`
-
 ## **To start**
 
 - There are two popular versions of Python (**2.7** and **3.5**);
