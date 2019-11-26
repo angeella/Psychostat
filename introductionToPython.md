@@ -1,18 +1,5 @@
----
-title: "Introduction to Python"
-author: "Angela Andreella"
-date: "December 16, 2019"
-output:
-  revealjs::revealjs_presentation:
-    theme: sky
-    highlight: tango
-    center: true
-    transition: convex
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# **Introduction to Python**
+`
 
 ## **To start**
 
