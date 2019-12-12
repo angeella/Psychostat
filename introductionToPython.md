@@ -11,7 +11,7 @@
 
 ## **Some tutorials**
 
-- <https://docs.python.org/3/tutorial/> $\rightarrow$ official python tutorial;
+- <https://docs.python.org/3/tutorial/> $\rightarrow$ official Python tutorial;
 - <https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+1T2018/course/> $\rightarrow$ Videos, exercises, etc;
 - <http://www.pymvpa.org/tutorial.html> $\rightarrow$ Multivariate Pattern Analysis.
 
@@ -60,7 +60,13 @@ In both cases, it is useful to create an **enviroments**:
 
 ```{bash, eval=FALSE}
 conda create -n yourenvname python=x.x anaconda
+```
+
+```{bash, eval=FALSE}
 activate yourenvname
 ```
 
 and then install packages into yourenvname.
+
+
+
