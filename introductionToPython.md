@@ -68,5 +68,6 @@ activate yourenvname
 
 and then install packages into yourenvname.
 
+For further details about managing enviroments in Anaconda, please see <https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html>
 
 
